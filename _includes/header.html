@@ -1,0 +1,80 @@
+<header>
+	<div class="row">
+	<!--<div class="row hidden-print">-->
+		<div class="col-md-4 col-md-push-8 col-sm-4 col-sm-push-8 col-xs-4 col-xs-push-8">
+			<div class="card card-profile">
+				<div class="card-avatar">
+					<a href="#">
+						<img class="img" src="assets/img/me.jpg">
+					</a>
+				</div>
+				<div class="card-content">
+					<h6 class="category text-gray">{{ site.author.jobtitle }}</h6>
+					<h4 class="card-title">{{ site.author.name }}</h4>
+					<p class="description">
+						{{ site.author.story }}
+					</p>
+				</div>
+				<div class="card-footer">
+					<ul class="header-info list-unstyled text-left">
+						<li><i class="fa fa-phone" aria-hidden="true"></i> {{ site.author.phone }}</li>
+						<li><i class="fa fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</li>
+						<li><i class="fa fa-globe" aria-hidden="true"></i> {{ site.author.blog }}</li>
+						<li><i class="fa fa-github" aria-hidden="true"></i> {{ site.author.github }}</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="card card-tags">
+				<div class="card-header card-header-icon" data-background-color="green">
+					<i class="material-icons">code<h6 class="card-title">Tags</h6></i>
+				</div>
+				<div class="card-content">
+					<ul>
+						<li>.NET</li>
+						<li>Architecture</li>
+						<li>JAVA</li>
+						<li>Docker</li>
+						<li>DevOps</li>
+						<li>Ansible</li>
+						<li>Jenkins</li>
+						<li>AWS</li>
+						<li>Software Craftsmanship</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-8 col-md-pull-4 col-sm-8 col-sm-pull-4 col-xs-8 col-xs-pull-4">
+			<div class="card card-skills">
+				<div class="card-header card-header-icon" data-background-color="green">
+					<i class="material-icons">done_all<h6 class="card-title">SKILLS</h6></i>					
+				</div>
+				<div class="card-content">					
+					<table class="table">
+						<tbody>
+							{% include skill.html skillname=".Net" size="100" color="purple" %}
+							{% include skill.html skillname="Crafts" size="85" color="green" %}
+							{% include skill.html skillname="DevOps & Cloud" size="95" color="red" %}							
+							{% include skill.html skillname="WebApi" size="80" color="blue" %}							
+							{% include skill.html skillname="Web" size="70" color="orange" %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+			<div class="card card-metiers">
+				<div class="card-header card-header-icon" data-background-color="green">
+					<i class="material-icons">portrait<h6 class="card-title">PROFIL</h6></i>
+				</div>
+				<div class="card-content">
+					<table class="table">
+						<tbody>
+							{% include profil.html category="profil" color="purple" title="PROFIL" subtitle="" %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>

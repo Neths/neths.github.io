@@ -1,0 +1,49 @@
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
+
+# Basic
+name:               "Michel VACHER CV"
+
+author:
+  name:             "Michel VACHER"
+  phone:            "06.79.81.09.54"
+  github:           "github.com/Neths"
+  blog:             "www.neths.fr"
+  email:            "vacher.michel@gmail.com"
+  jobtitle:         ".net architect / developer"
+  story:            "Opter pour le software craftsmanship et le DevOps me semblent des évidences nécessaires au maintien de la motivation et de l’engagement des équipes IT. Faciliter leur travail est mon mantra. Les outils existent, les solutions sont éprouvées, il est temps d’adopter des pratiques pleines de bon sens."
+
+# URL
+#url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "http://localhost:4000" # use this url when develop
+baseurl:            "/cv" # the subpath of your site, e.g. /blog
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Europe/Paris
+permalink:          /:year-:month/:title/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  input:            GFM
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+
+
+exclude:            [vendor]
