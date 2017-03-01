@@ -15,8 +15,8 @@ author:
   story:            "Opter pour le software craftsmanship et le DevOps me semblent des évidences nécessaires au maintien de la motivation et de l’engagement des équipes IT. Faciliter leur travail est mon mantra. Les outils existent, les solutions sont éprouvées, il est temps d’adopter des pratiques pleines de bon sens."
 
 # URL
-#url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-url:                "http://localhost:4000" # use this url when develop
+url:                "https://neths.github.io" # the base hostname & protocol for your site
+#url:                "http://localhost:4000" # use this url when develop
 baseurl:            "/cv" # the subpath of your site, e.g. /blog
 
 
