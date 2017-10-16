@@ -10,7 +10,7 @@ tags:
   - Suite Altassian
 category: "cloud"
 job: "Développeur sénior / Architecte Infrastructure"
-date_range : "1 mois"
+date_range : "3 mois"
 icon: "talentsoft.jpeg"
 ---
 
