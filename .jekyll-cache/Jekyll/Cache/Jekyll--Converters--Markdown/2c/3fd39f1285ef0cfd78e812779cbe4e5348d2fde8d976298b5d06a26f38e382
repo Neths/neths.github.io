@@ -1,0 +1,19 @@
+I"�<p>Au sein de la cellule d’expertise en charge de l’APIfication de la banque</p>
+
+<ul>
+  <li>Développement de librairies transverses à destination des équipe projets</li>
+  <li>Support technique aux équipes utilisatrices, et préconisations d’utilisations</li>
+  <li>Réalisation de POC autour de la gestion des logs distribués et chainage d’appels de services en .net et java</li>
+</ul>
+
+<p>Au sein d’une équipe de recherche financière dédiée à l’intégration quotidienne des données marchés de SGCIB et leurs restitutions à travers des services Web, sites Web et clients lourds.</p>
+
+<ul>
+  <li>Etudes des solutions techniques pour la rationalisation des intégrations des données</li>
+  <li>Etudes de la refonte du streamer temps réel</li>
+  <li>Réalisation de multiples POCs (Snapshotter de données marché / Streamer Temps Réel / Intégration de donnée uniforme / …)</li>
+  <li>Suivi et amélioration de la qualité du code</li>
+  <li>Développement d’un dashboard de production et automatisation de taches de support</li>
+  <li>Etude, Développement et Migration de l’infrastructure ‘Physique/VM’ vers le ‘Cloud Privé’ SG</li>
+</ul>
+:ET

@@ -4,7 +4,7 @@
 			<div class="card card-profile">
 				<div class="card-avatar">
 					<a href="#">
-						<img class="img" src="assets/img/me.jpg">
+						<img class="img" src="assets/img/me.png">
 					</a>
 				</div>
 				<div class="card-content">
@@ -29,13 +29,16 @@
 					<i class="material-icons">code<h6 class="card-title">Tags</h6></i>
 				</div>
 				<div class="card-content">
-					<ul>
-						<li>.NET</li>
+					<ul>						
 						<li>Architecture</li>
 						<li>AWS</li>
-						<li>JAVA</li>
-						<li>Docker</li>
+						<li>.NET Core</li>
+						<li>Serverless</li>
+						<li>REST API</li>
+						<li>.NET</li>						
 						<li>Kubernetes</li>
+						<li>JAVA</li>
+						<li>Docker</li>						
 						<li>DevOps</li>
 						<li>Jenkins</li>						
 						<li>Software Craftsmanship</li>
@@ -70,6 +73,16 @@
 					{% include profil.html category="profil" color="purple" title="PROFIL" subtitle="" %}
 				</div>
 			</div>
+
+			<div class="card card-metiers">
+				<div class="card-header card-header-icon" data-background-color="green">
+					<i class="material-icons">verified<h6 class="card-title">CERTIFICATIONS</h6></i>
+				</div>
+				<div class="card-content">
+					{% include certifications.html category="certifications" color="purple" title="CERTIFICATIONS" subtitle="" %}
+				</div>
+			</div>
 		</div>
 	</div>
 </header>
+

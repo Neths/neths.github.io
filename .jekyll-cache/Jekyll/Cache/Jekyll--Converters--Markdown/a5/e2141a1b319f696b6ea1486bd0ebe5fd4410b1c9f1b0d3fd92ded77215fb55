@@ -1,0 +1,11 @@
+I"><p>Dans un contexte de migration d’infrastruction et d’évolutions des systemes :</p>
+
+<ul>
+  <li>Gestion de l’infrastructure et des développements de la filiale France</li>
+  <li>Migration d’un Datacenter physique vers une infrastructure cloud (AWS)</li>
+  <li>Evolution des systèmes pour une meilleure tolérances aux défaillances.</li>
+  <li>Réduction de la dette techniques des applications.</li>
+  <li>Mise en place de chaînes CI/CD</li>
+  <li>Refonte des systèmes SSO pour une plus grande résilience et une meilleure scalabilité</li>
+</ul>
+:ET

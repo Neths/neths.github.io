@@ -1,0 +1,14 @@
+I"0<p>Team Leader :</p>
+<ul>
+  <li>Gestion d’une equipe de 4 developpeurs dedie a l’integration de donnees heterogene.</li>
+  <li>Creation et maintenance de pipelines CI As Code.</li>
+  <li>Uniformisation et automatisation des environnements de Developpement locaux.</li>
+</ul>
+
+<p>Infrastructure Leader</p>
+<ul>
+  <li>Mise en place d’Active Directory et des GPO.</li>
+  <li>Homogenisation de l’infrastructure (Etude PRA, VPN interne, Securisation de l’outsourcing, …).</li>
+  <li>Mise en place d’un cluster Rancher HA inter-datacenters.</li>
+</ul>
+:ET

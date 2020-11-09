@@ -1,0 +1,8 @@
+I"v<p>Intégration, Réalisation d’une plateforme de supervision pour le secteur agroalimentaire.</p>
+
+<ul>
+  <li>Dll de communication entre le serveur et les automates via protocole ModBus TCP/IP.</li>
+  <li>Développement d’une couche d’abstraction de la base de données (DAL).</li>
+  <li>Développement de l’utilitaire de configuration de la plateforme.</li>
+</ul>
+:ET
