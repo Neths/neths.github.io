@@ -16,7 +16,7 @@ tags:
   - CAS / SAML / OIDC
 category: "cloud"
 job: "Technical Leader"
-date_range : "2 ans et 6 mois"
+date_range : "2 ans et 9 mois"
 icon: "itsl.png"
 ---
 
