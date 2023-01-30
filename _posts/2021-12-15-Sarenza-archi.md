@@ -25,7 +25,7 @@ icon: "sarenza.jpg"
 
 Dans un contexte d'evolution d'une markeplace et de l'homogenisation du SI :
 
-- Etude et mise en place d'un plan de transformation du SI suite au rachat par le groupe BeauManoir.
-- Etude des differentes possibilités de re-plaforming des frontaux web.
+- Etude et mise en place d'un plan de transformation du SI suite au rachat par le groupe Beaumanoir.
+- Etude des différentes possibilités de replaforming des frontaux web.
 - Maintenance des librairies et des applicatifs transverse du SI existant.
-- Diffusion, amélioration et uniformisation des bonnes pratiques au sein des différentes équipes de developpement.
+- Diffusion, amélioration et uniformisation des bonnes pratiques au sein des différentes équipes de développement.
