@@ -18,7 +18,7 @@ tags:
   - Saleforce Commerce Cloud
   - JavaScript (React / expressJS)
 category: "cloud"
-job: "Architechte"
+job: "Architecte"
 date_range : "Depuis 1 ans et 2 mois"
 icon: "sarenza.jpg"
 ---
