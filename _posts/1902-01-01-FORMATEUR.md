@@ -10,6 +10,4 @@ Mise en place et animation de formations DevOps et Software Craftsmanship
 - Clean Code
 - TDD C# 
 
-<!--
-Azure SQL, Jenkins, MVC5, WebApi 2, bitbucket
--->
+

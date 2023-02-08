@@ -7,6 +7,4 @@ Formation aux bonnes pratiques de développement et de respect de la qualité de
 Animation de Kata, Randori et d’exercices pour la maitrise des outils (IDE, …) du développeur. 
 Accompagnement à l’industrialisation des tests.
 
-<!--
-Azure SQL, Jenkins, MVC5, WebApi 2, bitbucket
--->
+
