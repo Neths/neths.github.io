@@ -21,7 +21,7 @@ tags:
 category: 'cloud'
 job: 'Senior Cloud Developer'
 date_range: 'Depuis 6 mois'
-icon: 'totalenergies.jpg'
+icon: 'totalenergies.png'
 ---
 
 Dans un contexte de migration cloud sur le scope de redescente de deals et du monitoring du trading :
