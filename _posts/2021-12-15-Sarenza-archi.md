@@ -19,7 +19,7 @@ tags:
   - JavaScript (React / expressJS)
 category: "cloud"
 job: "Architecte"
-date_range : "Depuis 1 ans et 2 mois"
+date_range: '1 ans et 2 mois'
 icon: "sarenza.jpg"
 ---
 
