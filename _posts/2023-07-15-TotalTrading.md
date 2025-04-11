@@ -20,7 +20,7 @@ tags:
   - MongoDb
 category: 'cloud'
 job: 'Senior Cloud Developer'
-date_range: 'Depuis 11 mois'
+date_range: '1 ans'
 icon: 'totalenergies.png'
 ---
 
