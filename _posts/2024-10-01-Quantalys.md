@@ -16,7 +16,7 @@ tags:
   - SQL Server
 category: 'cloud'
 job: 'Tech Lead'
-date_range: 'Depuis 6 mois'
+date_range: 'Depuis 1 an et 7 mois'
 icon: 'quantalys.png'
 ---
 
